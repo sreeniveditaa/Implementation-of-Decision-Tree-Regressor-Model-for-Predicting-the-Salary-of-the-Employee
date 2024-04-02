@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the libraries and read the data frame using pandas.
+2. Calculate the null values present in the dataset and apply label encoder.
+3. Determine test and training data set and apply decison tree regression in dataset.
+4. calculate Mean square error,data prediction and r2.
 
 ## Program:
 ```
@@ -56,6 +56,7 @@ HEAD :
 ![Screenshot 2024-04-02 205550](https://github.com/sreeniveditaa/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147473268/1a86df38-3b03-4d75-a5fb-622493747e8e)
 
 MEAN SQUARED ERROR :
+
 ![image](https://github.com/sreeniveditaa/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/147473268/66ebd06a-b135-4228-aef3-b5d4e4b34e23)
 
 PREDICTED VALUE :
